@@ -6,7 +6,7 @@ Off-screen, I'm a dedicated yoga practitioner — the same focus on structure an
 
 ## 🚀 Currently building
 
-### [`DocLens`](https://github.com/guptaisha77/DocLens) — a domain-specific Q&A system over your own documents
+### [`ask-my-docs`](https://github.com/guptaisha77/ask-my-docs) — a domain-specific Q&A system over your own documents
 
 Built to go beyond the typical "embed and vector-search" RAG demo *(in active development)*:
 
