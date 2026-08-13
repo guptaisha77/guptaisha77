@@ -1,6 +1,6 @@
 # Hi, I'm Isha 👋
 
-**AI Engineer** based in Auckland, New Zealand. I build full-stack AI applications — RAG pipelines, semantic search, and agentic systems — and take them from idea to production with `React`, `TypeScript`, `Python`, and `FastAPI`. I shipped my previous company's first production RAG application; now I'm building the next one in the open.
+**AI Engineer** based in Auckland, New Zealand. I build full-stack AI applications — RAG pipelines, semantic search, and agentic systems — and take them from idea to production with `React`, `TypeScript`, `Python`, and `FastAPI`. I shipped my previous company's first production RAG application.
 
 ## 🛠 Tech I work with
 
