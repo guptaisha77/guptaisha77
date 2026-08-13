@@ -6,11 +6,11 @@
 
 **Frontend** &nbsp; `React` `TypeScript` `JavaScript` `Next.js`
 
-**Backend** &nbsp; `Python` `FastAPI` `Azure App Service` `Cosmos DB`
+**Backend** &nbsp; `Python` `FastAPI`
 
-**AI & LLMs** &nbsp; `RAG` `Vector Search` `Prompt Engineering` `Azure OpenAI` `Azure AI Search` `Groq` `LangGraph`
+**AI & LLMs** &nbsp; `RAG` `Prompt Engineering` `AI Agents`
 
-**Infrastructure & Tools** &nbsp; `Docker` `GitHub Actions` `CI/CD` `Entra ID (Azure AD)` `Snowflake`
+**Infrastructure & Tools** &nbsp; `Docker` `CI/CD`
 
 ## 📫 Reach me
 
