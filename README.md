@@ -8,7 +8,7 @@ I build LLM applications that hold up in production: agents that check their own
 
 ## 🌐 Portfolio
 
-**[isha-gupta.onrender.com](https://isha-gupta.onrender.com)**: case studies, projects, experience and CV.
+**[Explore my work →](https://isha-gupta.onrender.com)** Case studies, projects, experience and CV.
 
 ## 🧰 Toolkit
 
