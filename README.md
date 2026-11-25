@@ -1,17 +1,23 @@
 # Hi, I'm Isha 👋
 
-**AI Engineer** based in Auckland, New Zealand. I build full-stack AI applications — RAG pipelines, semantic search, and agentic systems — and take them from idea to production with `React`, `TypeScript`, `Python`, and `FastAPI`. I shipped my previous company's first production RAG application.
+**AI Engineer · Auckland, New Zealand · Open to AI engineering roles**
 
-## 🛠 Tech I work with
+> I take AI from demo to production — and prove it works.
 
-**Frontend** &nbsp; `React` `TypeScript` `JavaScript` `Next.js`
+I build LLM applications that hold up in production: agents that check their own work, retrieval over real company data, and the cloud infrastructure to run them securely. I built my company's first production AI application, a RAG assistant used every day by around 1,500 frontline advisors.
 
-**Backend** &nbsp; `Python` `FastAPI`
+## 🧰 Toolkit
 
-**AI & LLMs** &nbsp; `RAG` `Prompt Engineering` `AI Agents`
+**Languages** &nbsp; `Python` `TypeScript` `SQL` `R`
 
-**Infrastructure & Tools** &nbsp; `Docker` `CI/CD`
+**AI** &nbsp; `LangGraph` `LangChain` `Azure OpenAI` `RAG` `LangSmith`
 
-## 📫 Reach me
+**Backend** &nbsp; `FastAPI` `Pydantic` `SQLAlchemy`
 
-[LinkedIn](https://linkedin.com/in/isha7) · [guptaisha0708@gmail.com](mailto:guptaisha0708@gmail.com)
+**Frontend** &nbsp; `React` `Next.js` `Vite` `Tailwind`
+
+**Cloud** &nbsp; `Azure` `Terraform` `Docker` `GitHub Actions` `Azure DevOps`
+
+## 📫 Let's talk
+
+[Portfolio](https://isha-gupta.onrender.com) · [LinkedIn](https://linkedin.com/in/isha7) · [guptaisha0708@gmail.com](mailto:guptaisha0708@gmail.com)
