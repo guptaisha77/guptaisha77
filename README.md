@@ -6,6 +6,10 @@
 
 I build LLM applications that hold up in production: agents that check their own work, retrieval over real company data, and the cloud infrastructure to run them securely. I built my company's first production AI application, a RAG assistant used every day by around 1,500 frontline advisors.
 
+## 🌐 Portfolio
+
+**[isha-gupta.onrender.com](https://isha-gupta.onrender.com)**: case studies, projects, experience and CV.
+
 ## 🧰 Toolkit
 
 **Languages** &nbsp; `Python` `TypeScript` `SQL` `R`
@@ -20,4 +24,4 @@ I build LLM applications that hold up in production: agents that check their own
 
 ## 📫 Let's talk
 
-[Portfolio](https://isha-gupta.onrender.com) · [LinkedIn](https://linkedin.com/in/isha7) · [guptaisha0708@gmail.com](mailto:guptaisha0708@gmail.com)
+[LinkedIn](https://linkedin.com/in/isha7) · [guptaisha0708@gmail.com](mailto:guptaisha0708@gmail.com)
